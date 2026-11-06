@@ -1,0 +1,9 @@
+# UltraCut Pro
+Professional Android Video Editor
+
+## Features
+- Video editing
+- Trim and split
+- Audio and text
+- Effects and transitions
+- HD video export
